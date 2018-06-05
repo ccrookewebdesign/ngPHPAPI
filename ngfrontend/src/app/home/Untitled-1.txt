@@ -1,0 +1,70 @@
+[{"password":"4Testing!","lastname":"testCSC","userid":984519,"username":"testCSCX","firstname":"TestCSC","email":"testcsc@ccrook.com","lastlogin":"May, 29 2018 21:38:05"},{"password":"4Testing!","lastname":"test9","userid":814020,"username":"test9","firstname":"test9","email":"test9@testc","lastlogin":"May, 30 2018 07:11:28"},{"password":"3Testing!","lastname":"fdfdfff","userid":176620,"username":"testXX","firstname":"fdfd","email":"test@test","lastlogin":"May, 22 2018 21:02:04"},{"password":"4Testing!","lastname":"TESTZ","userid":364712,"username":"testZ","firstname":"TESTZ","email":"testz@testd","lastlogin":"May, 22 2018 21:19:25"},{"password":"4Testing!","lastname":"Daddy","userid":135812,"username":"test1","firstname":"Boom","email":"boom@daddy.com","lastlogin":"June, 01 2018 10:00:17"},{"password":"4Testing!","lastname":"AMAMAMA","userid":544012,"username":"testCSC","firstname":"AMAMA","email":"test@testttt","lastlogin":"May, 22 2018 21:21:11"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {"data":[{"id":"2","firstname":"Erin","lastname":"Smith","email":"erin@ccrooke.com","username":"esmith","password":"4Testing!","lastlogin":"2018-05-31 20:07:54","create_dt":"2018-05-31 20:07:54"},{"id":"4","firstname":"Joe","lastname":"Smith","email":"joe@ccrooke.com","username":"jsmith","password":"4Testing!","lastlogin":"2018-05-31 20:07:54","create_dt":"2018-05-31 20:07:54"},{"id":"3","firstname":"Tyra","lastname":"Jackson","email":"tyra@ccrooke.com","username":"tjackson","password":"4Testing!","lastlogin":"2018-05-31 20:07:54","create_dt":"2018-05-31 20:07:54"},{"id":"1","firstname":"Chris","lastname":"Crooke","email":"chris@ccrooke.com","username":"ccrooke","password":"4Testing!","lastlogin":"2018-05-31 20:07:54","create_dt":"2018-05-31 20:07:54"}]}
+
+{"data":"[{"password":"4Testing!","lastname":"testCSC","userid":984519,"username":"testCSCX","firstname":"TestCSC","email":"testcsc@ccrook.com","lastlogin":"May, 29 2018 21:38:05"},{"password":"4Testing!","lastname":"test9","userid":814020,"username":"test9","firstname":"test9","email":"test9@testc","lastlogin":"May, 30 2018 07:11:28"},{"password":"3Testing!","lastname":"fdfdfff","userid":176620,"username":"testXX","firstname":"fdfd","email":"test@test","lastlogin":"May, 22 2018 21:02:04"},{"password":"4Testing!","lastname":"TESTZ","userid":364712,"username":"testZ","firstname":"TESTZ","email":"testz@testd","lastlogin":"May, 22 2018 21:19:25"},{"password":"4Testing!","lastname":"Daddy","userid":135812,"username":"test1","firstname":"Boom","email":"boom@daddy.com","lastlogin":"June, 01 2018 08:50:03"},{"password":"4Testing!","lastname":"AMAMAMA","userid":544012,"username":"testCSC","firstname":"AMAMA","email":"test@testttt","lastlogin":"May, 22 2018 21:21:11"}]"}
+
+
+
+[
+        {
+          id: 2,
+          firstname: 'Erin',
+          lastname: 'Smith',
+          email: 'erin@ccrooke.com',
+          username: 'esmith',
+          password: '4Testing!',
+          lastlogin: '2018-05-31 20:07:54',
+          create_dt: '2018-05-31 20:07:54'
+        },
+        {
+          id: 4,
+          firstname: 'Joe',
+          lastname: 'Smith',
+          email: 'joe@ccrooke.com',
+          username: 'jsmith',
+          password: '4Testing!',
+          lastlogin: '2018-05-31 20:07:54',
+          create_dt: '2018-05-31 20:07:54'
+        },
+        {
+          id: 3,
+          firstname: 'Tyra',
+          lastname: 'Jackson',
+          email: 'tyra@ccrooke.com',
+          username: 'tjackson',
+          password: '4Testing!',
+          lastlogin: '2018-05-31 20:07:54',
+          create_dt: '2018-05-31 20:07:54'
+        },
+        {
+          id: 1,
+          firstname: 'Chris',
+          lastname: 'Crooke',
+          email: 'chris@ccrooke.com',
+          username: 'ccrooke',
+          password: '4Testing!',
+          lastlogin: '2018-05-31 20:07:54',
+          create_dt: '2018-05-31 20:07:54'
+        }
+      ];
